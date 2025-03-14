@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+안녕하세요. 저는 대구과고 1학년 2반 김도현입니다.
+
+
 <!--
 **HiNef/HiNef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
